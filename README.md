@@ -1,4 +1,6 @@
-
+# Agent97 Version
+ **Version**        : {RELEASE_VER} <br>
+ **Release Date**   : {RELEASE_DATE} <br>
 
 ### Getting Start with Agent97.
 ```bash
