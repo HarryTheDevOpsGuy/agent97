@@ -1,5 +1,5 @@
 # Agent97 Version
- **Version**        : v0.0.5 <br>
+ **Version**        : v0.0.6 <br>
  **Release Date**   : 31-Jul-22 <br>
 
 ### Getting Start with Agent97.
